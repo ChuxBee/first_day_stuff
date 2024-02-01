@@ -1,0 +1,68 @@
+.style{
+        background-color: black;
+    }
+
+body{
+        display: block;
+
+}
+
+h1 {
+
+        /* Put a 15-pixel margin at the bottom of the heading. */
+        margin-top: 15px;
+        /* Change the size of your font to 60 pixels high. */
+        font-size: 60px;
+        /* This will color the heading font white. */
+        color: white;
+        /* Align the text to the center of its enclosing element (e.g. div). */
+        text-align: left;
+        /* The background of the heading element will now be black. */
+        background-color: black;
+        /* The border style of the heading element will be solid. */
+        border-style: solid;
+        /* Put a 5px in the border width of the heading element. */
+        border-width: 5px;
+        /* Make the font-weight of the heading element bold. */
+        font-weight: bold;
+        /* Position the font inside the border. */
+        list-style-position: inside;
+        /* Put a 15-pixel margin at the bottom of the heading. */
+        margin-bottom: 15px;
+}
+    
+h2, h3, h4, h5, h6 {
+    /* Put a 15-pixel margin at the top of the heading. */
+    margin-top: 15px;
+    /* Change the size of your font to 60 pixels high. */
+    font-size: 20px;
+    /* This will color the heading font white. */
+    color: white;
+    /* Align the text to the center of its enclosing element (e.g. div). */
+    text-align: left;
+    /* The background of the heading element will now be black. */
+    background-color: black;
+    /* Make font weight bold. */
+    font-weight: bold;
+    /* Put a 15-pixel margin at the bottom of the heading. */
+    margin-bottom: 10px;
+  }
+
+p {
+        /* Put a 15-pixel margin at the top of the heading. */
+        margin-top: 15px;
+        /* Change the size of your font to 60 pixels high. */
+        font-size: 25px;
+        /* This will color the heading font white. */
+        color: white;
+        /* Align the text to the center of its enclosing element (e.g. div). */
+        text-align: left;
+        /* The background of the heading element will now be black. */
+        background-color: black;
+        /* Make font weight bold. */
+        font-weight: bold;
+        /* Put a 15-pixel margin at the bottom of the heading. */
+        margin-bottom: 10px;
+  }
+
+  
